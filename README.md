@@ -1,4 +1,4 @@
-# Create a MiniComputer with a small program memory and a very simple processor (VSP) which has 8 registers, a program counter and a halt status register. The instruction's opcode can be:
+  Create a MiniComputer with a small program memory and a very simple processor (VSP) which has 8 registers, a program counter and a halt status register. The instruction's opcode can be:
 -NOP(no operation)
 -ADD(add the values of 2 registers and store the result into a 3rd one), 
 -SUB(substract the values of 2 registers and store the result into a 3rd one)
